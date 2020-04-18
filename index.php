@@ -27,7 +27,7 @@
             <form method="post" class="form" id="form">
                 <input type="text" name="login" />
                 <input type="password" name="password" />
-                <button name="submit">Zaloguj</button>
+                <button name="submit">Zalogujs</button>
             </form>
         </div>
 
